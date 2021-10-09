@@ -2,10 +2,6 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, Flutter**
 
-- 📫 How to reach me **ahmudhakim@gmail.com**
-
-- ⚡ Fun fact **I think this game is quite fun**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmadfarizdwiputra" height="30" width="40" /></a>
