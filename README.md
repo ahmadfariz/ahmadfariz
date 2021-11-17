@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmad Fariz Dwi Putra</h1>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=25&lines=Hey+there%2C+I'm+Fariz+%F0%9F%91%8B;Check+out+my+work)](https://git.io/typing-svg)
+</h1>
 
 - 🌱 I’m currently learning **Java, Kotlin, Flutter**
 
