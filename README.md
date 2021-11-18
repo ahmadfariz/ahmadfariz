@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2370A5FD&size=25&center=true&vCenter=true&lines=Hey+there+I'm+Fariz;Check+out+my+work"></a>
 </p>
 
-## 🫂 Connect with me:
+## 🫂 Connect with me
 <p align="left">
 <a href="https://fb.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="ahmadfarizdwiputra"/></a>
 <a href="https://instagram.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white" alt="ahmadfarizdwiputra"/></a>
