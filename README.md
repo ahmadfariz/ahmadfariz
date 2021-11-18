@@ -7,9 +7,9 @@
 
 ## 🫂 Connect with me:
 <p align="left">
-<a href="https://fb.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmadfarizdwiputra" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadfarizdwiputra" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/id/ahmadfariz/" target="blank"><img align="center" src="https://res.cloudinary.com/cryptone/image/upload/v1634085624/steam_f9i1ms.png" alt="ahmadfarizdwiputra" height="30" width="40" /></a>
+<a href="https://fb.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="ahmadfarizdwiputra"/></a>
+<a href="https://instagram.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white" alt="ahmadfarizdwiputra"/></a>
+<a href="https://steamcommunity.com/id/ahmadfariz/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="ahmadfarizdwiputra" /></a>
 </p>
 
 ## 🛠️ My favorite tools
