@@ -39,6 +39,7 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
