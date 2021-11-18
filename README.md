@@ -58,6 +58,7 @@
 
 ## 📊 Github stats
 
+<p>💻 GitHub Profile Stats</p>
 <p align="center">
   <a href="https://github.com/ahmadfariz">
     <img
@@ -73,3 +74,7 @@
     />
   </a>
 </p>
+<!-- 
+<br>
+<p>⚡ Recent GitHub Activity</p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmadfariz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
