@@ -58,8 +58,6 @@
 
 <p>
     <a href="#"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white"></a>
-    <a href="#"><img alt="PlayStation" src="https://img.shields.io/badge/PlayStation-003791?logo=playstation&logoColor=white"></a>
-    <a href="#"><img alt="Xbox" src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white"></a>
 </p>
 
 ## 📊 Github stats
