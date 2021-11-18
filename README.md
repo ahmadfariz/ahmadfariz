@@ -1,6 +1,6 @@
 <h1 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=25&lines=Hey+there%2C+I'm+Fariz+%F0%9F%91%8B;Check+out+my+work)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2370A5FD&size=25&center=true&vCenter=true&lines=Hey+there+I'm+Fariz;Check+out+my+work)](https://git.i/typing-svg)
 </h1>
 
 - 🌱 I’m currently learning **Java, Kotlin, Flutter**
@@ -15,4 +15,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadfariz&show_icons=true&locale=en&layout=compact" alt="ahmadfariz" /></p>
+<p align="center">
+  <a href="https://github.com/ahmadfariz">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfariz&layout=compact&theme=tokyonight&hide_border=true&card_width=368"
+    />
+  </a>
+  <a href="https://github.com/ahmadfariz">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=ahmadfariz&theme=tokyonight&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&include_all_commits=true"
+    />
+  </a>
+</p>
