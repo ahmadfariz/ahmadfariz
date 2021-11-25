@@ -55,8 +55,8 @@
 </p> -->
 
 ## 📊 Github stats
-
-<p>💻 GitHub Profile Stats</p>
+<!-- 
+<p>💻 GitHub Profile Stats</p> -->
 <p align="center">
   <a href="https://github.com/ahmadfariz">
     <img
