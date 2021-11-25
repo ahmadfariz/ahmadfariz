@@ -14,7 +14,7 @@
 <a href="https://steamcommunity.com/id/ahmadfariz/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="ahmadfarizdwiputra" /></a>
 </p>
 
-## 🛠️ My favorite tools
+<!-- ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
@@ -52,7 +52,7 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+</p> -->
 
 ## 📊 Github stats
 
