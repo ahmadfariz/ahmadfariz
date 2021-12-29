@@ -14,6 +14,12 @@
 <a href="https://steamcommunity.com/id/ahmadfariz/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="ahmadfarizdwiputra" /></a>
 </p>
 
+## 📘 Latest Blog Post
+
+- [Review OS Ringan](https://blog.ahmadfariz.my.id/posts/review-os-ringan/)
+- [Adblocker dan Skip-bypass untuk Windows Spotify](https://blog.ahmadfariz.my.id/posts/adblocker-dan-skip-bypass-untuk-windows-spotify/)
+- [Hosting, domain gratis? Pasti ada](https://blog.ahmadfariz.my.id/posts/hosting-domain-gratis/)
+
 <!-- ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
