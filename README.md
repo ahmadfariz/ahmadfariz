@@ -67,17 +67,20 @@
   <a href="https://github.com/ahmadfariz">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfariz&layout=compact&theme=tokyonight&hide_border=true&card_width=368"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfariz&layout=compact&hide_border=true&card_width=368"
     />
   </a>
   <a href="https://github.com/ahmadfariz">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ahmadfariz&theme=tokyonight&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=ahmadfariz&count_private=true&show_icons=true&custom_title=Github%20Status&hide_border=true&include_all_commits=true"
     />
   </a>
 </p>
+
+<!-- 
+theme=tokyonight& -->
 <!-- 
 <br>
 <p>⚡ Recent GitHub Activity</p>
