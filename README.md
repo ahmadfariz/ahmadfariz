@@ -1,6 +1,6 @@
 ![My card name](https://cardivo.vercel.app/api?name=Ahmad%20Fariz%20Dwi%20Putra&description=Little%20programmer%20who%20likes%20to%20try%20and%20sometimes%20gives%20up%20easily&image=https://avatars.githubusercontent.com/u/56096045?v=4&backgroundColor=%23ecf0f1&instagram=ahmadfarizdwiputra&github=ahmadfariz&pattern=ticTacToe&colorPattern=%23eaeaea)
 
-## 🫂 Connect with me
+## 👋 Connect with me
 <p align="left">
 <a href="https://fb.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="ahmadfarizdwiputra"/></a>
 <a href="https://instagram.com/ahmadfarizdwiputra" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white" alt="ahmadfarizdwiputra"/></a>
