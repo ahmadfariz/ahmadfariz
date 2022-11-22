@@ -9,9 +9,9 @@
 
 ## 📘 Latest Blog Post
 
-- [Review OS Ringan](https://blog.ahmadfariz.my.id/posts/review-os-ringan/)
-- [Adblocker dan Skip-bypass untuk Windows Spotify](https://blog.ahmadfariz.my.id/posts/adblocker-dan-skip-bypass-untuk-windows-spotify/)
-- [Hosting, domain gratis? Pasti ada](https://blog.ahmadfariz.my.id/posts/hosting-domain-gratis/)
+- [Review OS Ringan](https://blog.afdp.my.id/posts/review-os-ringan/)
+- [Adblocker dan Skip-bypass untuk Windows Spotify](https://blog.afdp.my.id/posts/adblocker-dan-skip-bypass-untuk-windows-spotify/)
+- [Hosting, domain gratis? Pasti ada](https://blog.afdp.my.id/posts/hosting-domain-gratis/)
 
 ## 📊 Github stats
 <p align="center">
